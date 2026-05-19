@@ -1,0 +1,1 @@
+{"0": {"n_cells": 30, "marker_genes": ["CD3D", "CD3E", "CD8A", "TRAC", "GAPDH"]}, "1": {"n_cells": 25, "marker_genes": ["CD19", "MS4A1", "CD79A", "IGHM", "ACTB"]}, "2": {"n_cells": 45, "marker_genes": ["COL1A1", "COL1A2", "DCN", "POSTN", "VIM"]}}

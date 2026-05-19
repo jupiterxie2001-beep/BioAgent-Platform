@@ -1,0 +1,53 @@
+{
+  "0": {
+    "cell_type": "T cells",
+    "confidence": 0.5714285714285714,
+    "marker_genes": [
+      "CD3D",
+      "CD3E",
+      "CD8A",
+      "TRAC",
+      "GAPDH"
+    ],
+    "matching_markers": [
+      "CD3D",
+      "CD3E",
+      "CD8A",
+      "TRAC"
+    ]
+  },
+  "1": {
+    "cell_type": "B cells",
+    "confidence": 0.6666666666666666,
+    "marker_genes": [
+      "CD19",
+      "MS4A1",
+      "CD79A",
+      "IGHM",
+      "ACTB"
+    ],
+    "matching_markers": [
+      "CD19",
+      "MS4A1",
+      "CD79A",
+      "IGHM"
+    ]
+  },
+  "2": {
+    "cell_type": "Fibroblasts",
+    "confidence": 0.8,
+    "marker_genes": [
+      "COL1A1",
+      "COL1A2",
+      "DCN",
+      "POSTN",
+      "VIM"
+    ],
+    "matching_markers": [
+      "COL1A1",
+      "COL1A2",
+      "DCN",
+      "POSTN"
+    ]
+  }
+}
